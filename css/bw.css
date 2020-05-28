@@ -1,0 +1,27 @@
+* {
+  color: #222;
+}
+
+html {
+  font-size: 18px;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+form {
+  background-color: #eee;
+  border: 1px solid #ccc;
+  padding: 0.5rem;
+}
+
+input[type=checkbox] {
+  margin: 0;
+  padding: 0;
+  vertical-align: middle;
+}
+
+img {
+  filter: grayscale(100%);
+}
